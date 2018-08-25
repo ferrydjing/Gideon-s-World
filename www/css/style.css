@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+.head {
+    height: 60px;
+    background: #ccc;
+}
+.head-content  {
+    margin: 0 auto;
+    height: 100%;
+    color:#fff;
+    font-size: 25px;
+    width: 80%;
+    line-height: 60px;
+}
